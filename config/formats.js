@@ -336,9 +336,10 @@ exports.Formats = [
 			'Soul Dew', 'Dark Void', 'Perish Song'
 		]
 	},
-	name: "Ubers Triples",
+	{
+		name: "Ubers Triples",
 		desc: [
-			"&bullet; <a href=\"/\">Ubers Triples</a>"
+			"&bullet; <a href=\"https://www.smogon.com/forums/threads/3542746/\">Doubles Ubers</a>
 		],
 		section: "ORAS Triples",
 
