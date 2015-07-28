@@ -338,9 +338,6 @@ exports.Formats = [
 	},
 	{
 		name: "Ubers Triples",
-		desc: [
-			"&bullet; <a href=\"https://www.smogon.com/forums/threads/3542746/\">Doubles Ubers</a>
-		],
 		section: "ORAS Triples",
 
 		gameType: 'triples',
