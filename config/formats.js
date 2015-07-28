@@ -336,6 +336,16 @@ exports.Formats = [
 			'Soul Dew', 'Dark Void', 'Perish Song'
 		]
 	},
+	name: "Ubers Triples",
+		desc: [
+			"&bullet; <a href=\"/\">Ubers Triples</a>"
+		],
+		section: "ORAS Triples",
+
+		gameType: 'triples',
+		ruleset: ['Pokemon', 'Species Clause', 'Moody Clause', 'OHKO Clause', 'Endless Battle Clause', 'HP Percentage Mod', 'Cancel Mod', 'Team Preview'],
+		banlist: ['Unreleased', 'Illegal', 'Dark Void']
+	},
 	{
 		name: "Battle Spot Triples",
 		section: "ORAS Triples",
